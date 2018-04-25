@@ -4,6 +4,8 @@
 
 #### Why do we negotiate?
 
++++
+
 - Different people have different views/needs/objectives
 - To reach an agreement |
 - To avoid conflictual situations |
