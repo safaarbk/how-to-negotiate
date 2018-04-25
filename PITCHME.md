@@ -38,6 +38,7 @@
     - Decision making
     - Empathy
 
++++image?=https://i.imgflip.com/291tj9.jpg
 +++
 
 ![meme](https://i.imgflip.com/291tj9.jpg)
