@@ -43,8 +43,15 @@
 +++
 
 - Active listening
++++
+![meme](http://i0.kym-cdn.com/photos/images/newsfeed/000/546/431/03b.jpg)
++++
 - Emotional control
++++
+![meme](https://geekielady.files.wordpress.com/2018/02/ae.jpg)
++++
 - Analysis
+
 - Effective communication
 - Problem solving
 - Decision making
