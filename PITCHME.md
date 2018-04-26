@@ -28,7 +28,7 @@
 - Prepare for the meeting by determining your own motives and objectives.
 - Be prepared with information.
 
-
+---
 ##### conducting the negotiation
 ---
 - Start by discussing a mutually agreed upon point of the negotiation.
