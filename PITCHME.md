@@ -115,11 +115,14 @@
 #### Recap: Conduct
 
 - start with what you agree on
+- start high, give youself room for concessions |
 - focus on aligning objectives |
 - offer concessions proactively |
 - argue incrementally |
 - know when to end it |
 
+---
+![video](https://www.youtube.com/embed/wtxkTR4EhrM)
 ---
 
 Q&A
