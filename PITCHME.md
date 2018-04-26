@@ -42,13 +42,13 @@
 
 +++
 
-    - Active listening
-    - Emotional control
-    - Analysis
-    - Effective communication
-    - Problem solving
-    - Decision making
-    - Empathy
+- Active listening
+- Emotional control
+- Analysis
+- Effective communication
+- Problem solving
+- Decision making
+- Empathy
 ---
 
 ![meme](https://i.imgflip.com/291tj9.jpg)
