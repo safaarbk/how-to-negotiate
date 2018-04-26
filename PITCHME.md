@@ -44,6 +44,7 @@
 ##### Preparing the negotiation
 
 ---
+
 - Your starting position/"bottom line".
 - Consider the objectives of the other party. |
 - Plan your sequence of proposals and possible counter-proposals. |
@@ -54,9 +55,9 @@
 ##### Conducting the negotiation
 ---
 - Start by discussing a mutually agreed upon point of the negotiation.
-- Act as the proactive party when making concessions
-- Make your arguments and proposals incrementally and strategically.
-- Know when it is time to close or break off discussion.
+- Act as the proactive party when making concessions |
+- Make your arguments and proposals incrementally and strategically. |
+- Know when it is time to close or break off discussion. |
 
 +++
 
@@ -81,16 +82,21 @@
 +++
 
 - Analysis
-- Effective communication
-- Problem solving
-- Decision making
-- Empathy
+- Effective communication |
+- Problem solving |
+- Decision making |
+- Empathy |
 
 +++
 
-![meme](https://i.imgflip.com/291tj9.jpg)
+
+---
 
 ## Recap
+
+<div class='fragment'>
+![meme](https://i.imgflip.com/291tj9.jpg)
+</div>
 
 +++
 
