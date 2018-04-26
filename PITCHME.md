@@ -30,20 +30,16 @@
 
 ---
 
-### How do we negotiate?
-
-+++
-
 #### PHASES
 
 - preparation
 - conduct ongoing negotiation
 
-+++
+---
 
 ##### Preparing the negotiation
 
----
++++
 
 - Your starting position/"bottom line".
 - Consider the objectives of the other party. |
@@ -53,8 +49,11 @@
 
 ---
 ##### Conducting the negotiation
----
+
++++
+
 - Start by discussing a mutually agreed upon point of the negotiation.
+- Start high, demand the highest you feel you can get |
 - Act as the proactive party when making concessions |
 - Make your arguments and proposals incrementally and strategically. |
 - Know when it is time to close or break off discussion. |
