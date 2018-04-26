@@ -1,4 +1,13 @@
-## Situations you had to negotiate
+## How to negotiate
+---
+
+### Overview
+
+- You will learn
+  - what kinds of negotiations are there
+  - how to prepare for negotiations
+  - how to conduct negotiations
+  - to avoid common negotiation pitfalls
 
 +++
 
@@ -14,25 +23,38 @@
 
 ---
 
+#### Kinds of negotiations
+
+- Win-Win
+- Win-Lose
+
+---
+
 ### How do we negotiate?
 
 +++
 
 #### PHASES
+
+- preparation
+- conduct ongoing negotiation
+
 +++
-##### preparing the negotiation
----
-- Your starting position/"bottom line".
-- Consider the objectives of the other party.
-- Plan your sequence of proposals and possible counter-proposals.
-- Prepare for the meeting by determining your own motives and objectives.
-- Be prepared with information.
+
+##### Preparing the negotiation
 
 ---
-##### conducting the negotiation
+- Your starting position/"bottom line".
+- Consider the objectives of the other party. |
+- Plan your sequence of proposals and possible counter-proposals. |
+- Prepare for the meeting by determining your own motives and objectives. |
+- Be prepared with information. |
+
+---
+##### Conducting the negotiation
 ---
 - Start by discussing a mutually agreed upon point of the negotiation.
-- Be the proactive one, use phrases like "I will do such-and-such for you, and you will do this for me."
+- Act as the proactive party when making concessions
 - Make your arguments and proposals incrementally and strategically.
 - Know when it is time to close or break off discussion.
 
@@ -43,24 +65,60 @@
 +++
 
 - Active listening
-+++
-![meme](http://i0.kym-cdn.com/photos/images/newsfeed/000/546/431/03b.jpg)
-+++
-- Emotional control
-+++
-![meme](https://geekielady.files.wordpress.com/2018/02/ae.jpg)
-+++
-- Analysis
 
+<div class='fragment'>
+![meme](http://i0.kym-cdn.com/photos/images/newsfeed/000/546/431/03b.jpg)
+</div>
+
++++
+
+- Emotional control
+
+<div class='fragment'>
+![meme](https://geekielady.files.wordpress.com/2018/02/ae.jpg)
+</div>
+
++++
+
+- Analysis
 - Effective communication
 - Problem solving
 - Decision making
 - Empathy
----
+
++++
 
 ![meme](https://i.imgflip.com/291tj9.jpg)
 
+## Recap
+
 +++
+
+#### Recap: Prepare
+
+- who
+  - stakeholders
+  - your side
+- why
+  - objectives
+- what
+  - limits
+  - bottom-line
+
++++
+
+#### Recap: Conduct
+
+- start with what you agree on
+- focus on aligning objectives |
+- offer concessions proactively |
+- argue incrementally |
+- know when to end it |
+
+---
+
+Q&A
+
 
 
 
