@@ -58,7 +58,7 @@
 - Make your arguments and proposals incrementally and strategically. |
 - Know when it is time to close or break off discussion. |
 
-+++
+---
 
 #### SKILLS
 
