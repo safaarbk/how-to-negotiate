@@ -10,11 +10,11 @@
   - how to conduct negotiations
   - to avoid common negotiation pitfalls
 
-+++
+---
 
 #### Why do we negotiate?
 
-+++
+---
 
 - Different people have different views/needs/objectives
 - To reach an agreement |
@@ -40,7 +40,7 @@
 
 ##### Preparing the negotiation
 
-+++
+---
 
 - Your starting position/"bottom line".
 - Consider the objectives of the other party. |
@@ -51,7 +51,7 @@
 ---
 ##### Conducting the negotiation
 
-+++
+---
 
 - Start by discussing a mutually agreed upon point of the negotiation.
 - Start high, demand the highest you feel you can get |
@@ -63,7 +63,7 @@
 
 #### SKILLS
 
-+++
+---
 
 - Active listening
 
@@ -71,7 +71,7 @@
 ![meme](http://i0.kym-cdn.com/photos/images/newsfeed/000/546/431/03b.jpg)
 </div>
 
-+++
+---
 
 - Emotional control
 
@@ -79,7 +79,7 @@
 ![meme](https://geekielady.files.wordpress.com/2018/02/ae.jpg)
 </div>
 
-+++
+---
 
 - Analysis
 - Effective communication |
@@ -87,7 +87,7 @@
 - Decision making |
 - Empathy |
 
-+++
+---
 
 
 ---
@@ -98,7 +98,7 @@
 ![meme](https://i.imgflip.com/291tj9.jpg)
 </div>
 
-+++
+---
 
 #### Recap: Prepare
 
@@ -111,7 +111,7 @@
   - limits
   - bottom-line
 
-+++
+---
 
 #### Recap: Conduct
 
